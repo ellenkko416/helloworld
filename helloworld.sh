@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello world-ee355 test"
+echo "hello world-ee355 test commit practice"
 }
 
 func
